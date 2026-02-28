@@ -103,7 +103,7 @@ const ContactForm = () => {
                 </div>
                 <div>
                   <p className="text-sm text-slate-400">Call Us</p>
-                  <p className="font-bold text-primary">+353 (0)21 123 4567</p>
+                  <p className="font-bold text-primary">+353 (0)21 324 6657</p>
                 </div>
               </div>
               <div className="flex items-center gap-4">
